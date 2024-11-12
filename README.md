@@ -19,7 +19,7 @@ Minimum OS version - The lowest version of the iPhone OS to which the device can
 
 u/randomNinja64- Initial code Creator of the code.
 
-u/Wubbl0rzDev- Elaboration Basic Programming
+u/TheHunterDerv- Elaboration Basic Programming
 
 u/BJNFNE - Elaboration of the code
 
