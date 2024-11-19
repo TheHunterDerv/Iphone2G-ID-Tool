@@ -1,3 +1,0 @@
-﻿  iPhone2G ID Tool.cpp
-C:\Users\Marco\Downloads\iPhone2G-ID-Tool-master\iPhone2G-ID-Tool-master\iPhone2G ID Tool.cpp(236,76): warning C4267: "Argument": Konvertierung von "size_t" nach "DWORD", Datenverlust möglich
-  2GIDToolWin.vcxproj -> C:\Users\Marco\Downloads\iPhone2G-ID-Tool-master\iPhone2G-ID-Tool-master\x64\Debug\iphone2G ID Tool v2.1.exe
