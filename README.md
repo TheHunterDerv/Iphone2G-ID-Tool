@@ -14,6 +14,8 @@ Original Bootloader Version - The version of the bootloader the phone was shippe
 
 Minimum OS version - The lowest version of the iPhone OS to which the device can be downgraded
 
+Once the program has been compiled, it creates a text file with the content of the serial number and its month of manufacture.
+
 -credits-
 
 
